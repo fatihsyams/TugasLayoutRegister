@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ProjekMe</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="password">password</string>
+    <string name="forgot_passworrd">Forgot Passworrd?</string>
+    <string name="login">Login</string>
+
+    <string-array name="pilihNegara">
+        <item>Indonesia</item>
+        <item>Malaysian</item>
+        <item>Wakanda</item>
+        <item>Planet Bekasi</item>
+        <item>Iraq</item>
+        <item>Brazil</item>
+        <item>Amerika</item>
+        <item>Singapura</item>
+        <item>Brunei</item>
+        <item>Timor Leste</item>
+        <item>Negara republik negri Aceh</item>
+    </string-array>
+</resources>
